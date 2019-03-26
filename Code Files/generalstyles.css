@@ -1,7 +1,5 @@
     @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
     @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500');
-    .navbar{
-    }
     .nav-item{
         font-size:20px;
         color:black;
@@ -141,6 +139,24 @@
         height:60px;
         width:220px;
     }
+    table{
+        color:white;
+        font-size:22px;
+        font-family:Rubik;
+        margin:auto;
+    }
+    th{
+        width:85%;
+        font-size:26px;
+        padding-bottom:10px;
+    }
+    td{
+        padding-bottom:20px;
+    }
+    #logo{
+        height:60px;
+        width:220px;
+    }
     
     
     
@@ -163,10 +179,14 @@
         .competition-dropdown-tag{
             width:65%;
         }
-        .logo{
+        #logo{
             height:40px;
-            
+            width:140px;
         }
+        .scrollerspacer{
+            top:-60px;
+        }
+        
         
     }
     
