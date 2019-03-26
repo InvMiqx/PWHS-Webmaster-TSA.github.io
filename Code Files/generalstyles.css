@@ -182,6 +182,9 @@
         .scrollerspacer{
             top:-60px;
         }
+        th{
+            width:95%;
+        }
         
         
     }
